@@ -11,8 +11,8 @@ An interactive Tower of Hanoi game with an optimal auto-solver, in a single Jupy
 Requires Python 3.9+. The notebook runs in VS Code (with the Python and Jupyter extensions) or JupyterLab.
 
 ```bash
-git clone <your-repo-url>
-cd tower-of-hanoi
+git clone https://github.com/JayDeeXIII/Tower-of-Hanoi.git
+cd Tower-of-Hanoi
 python3 -m venv .venv
 source .venv/bin/activate        # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
@@ -38,7 +38,7 @@ The minimum for n disks is 2^n - 1 moves, so the disk count is capped at 7 (127 
 ## Project structure
 
 ```
-tower-of-hanoi/
+Tower-of-Hanoi/
 ├── tower_of_hanoi.ipynb
 ├── requirements.txt
 ├── README.md
