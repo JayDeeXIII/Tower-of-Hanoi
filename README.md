@@ -8,7 +8,7 @@ An interactive Tower of Hanoi game with an optimal auto-solver, in a single Jupy
 
 ## Demo
 
-![Tower of Hanoi demo](docs/demo.gif)
+![Tower of Hanoi demo](docs/Hanoi.gif)
 
 ## Setup
 
