@@ -6,6 +6,10 @@ An interactive Tower of Hanoi game with an optimal auto-solver, in a single Jupy
 - **Solve:** one button resets the puzzle and animates the optimal solution (2^n - 1 moves).
 - **Verified:** the solver is checked by replaying its moves through the game's rule-enforcing simulator, and cross-checked against a second, independent algorithm.
 
+## Demo
+
+![Tower of Hanoi demo](docs/demo.gif)
+
 ## Setup
 
 Requires Python 3.9+. The notebook runs in VS Code (with the Python and Jupyter extensions) or JupyterLab.
